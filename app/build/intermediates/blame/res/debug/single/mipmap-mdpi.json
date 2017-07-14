@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

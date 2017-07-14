@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/5348eb54d31f2df0195e4b4d54540c2a0952594b/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

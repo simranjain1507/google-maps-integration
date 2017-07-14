@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/wallet_primary_text_holo_light.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/3fe803046c06a78437800acbd3090ef58ba57290/output/res/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/wallet_secondary_text_holo_dark.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/3fe803046c06a78437800acbd3090ef58ba57290/output/res/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/res/color/abc_tint_default.xml"
+    }
+]

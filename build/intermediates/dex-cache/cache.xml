@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/df394722d3a4c6bf6112dd8e9323c4ce6291c984/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6c098516db3cf935b4a45dc4dfa95cf71d751961">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_820e8e80440fe96ff56ff599c7a10b1703f1a490.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/4dd8470e5eab281ed6eda6d89a57d3ce340408e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c7b0c1662f1e2949e3635c2461a889cf9bd19c52">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_73e7584ea29d7cc618de1d8187c62130bb5f1456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/2b75dff52771bb5d9cab9354520eec829d09cc00/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_98ef15b6092d3b2a9a8c5888e2491f21a8eb5a9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/1354084cd1f9d662302e187a97a1576fae6be8f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="20051ea387377125db14d6c0966662019f0a897c">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_7fb8ca35f8aa8258a9382d8aef27e959b1313b7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="89e585298b910ee100d0f0f1e7f65520aab37931">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_7471f42f7e5beb0787bbbfa2b4aa209df640e052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="700b670ed3f9cf4b240081993c6004817866985a">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_79cf06b69e1289d9f013fd0f0ec3bb0f44587e3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/7c31f3173928de90b3d9547bc9fc039a2629ad97/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ffbd024a5fd5efda6714beeaa97314b43563f1c">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_cf6d76e4ec33154c362eca325cc31a9921cd91b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_fd75550b8091844ee0ce37ec5b8fa096eaae15ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5d08eea1d3853927600d2507c7ca47a31c3df5d0">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_60a3ea3f0a75f9488699767a443fef0feaf70f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0e39662b49ef66950c0941aa5fd4c49346a7c341">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_bfed79abbca1c190d977efdbb8c77b5538d73d5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/4016b914a2fd943ac7619d457c12d5372e5b5579/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="432ae8736f68442ef8d6e5c43631081aaa298a34">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_8515bc764258df8c95979f449ec71bc484db24a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/76471ddee42fb0f020c536562118848ca1de8da8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_ce3d01a2b899bab8180ec6a9e986f797b0c7374b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/f622c9cbad6b151803b91b0ab0163784f67c64e5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6688016b1c2ab0daad89bb59ca9b7acbd1c80412">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_5d7169be06011fdaa5b1888de945aa450473c287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/a20d13de200d38eeaad6bacd9fa2270c1f45ab9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6bade648cc46af0ffc636586806c60dba1b7fdf8">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_579375ce068d793f766038727d8340b30c249bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/75912803202da8a3e422f39d1838d9a14fa5027b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a00d7f8576a10b66449fbe4ac16f8de2fa4d683f">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_1d2d5327d78817682847f70829bc976632e8f9c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/fdcfefabdbddf6ba86d3a54127eed0512bffbc57/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6dfa77c356a9a8c13ad61253ed95ed3a746527e6">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_3533706a630b462e1b330b9e4fa8856a74485c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/c8ece432494aec76f38e2b43aa5f313fd972f14a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="972004dcec5aeb1d9f4c06a6d90e9b5b674b9aa3">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_3cb3f51508bd7ce53c11ec2d0a6a80d7b16c23d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/3fe803046c06a78437800acbd3090ef58ba57290/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2306e0665b3c407099437d9332e8528c2bfd5f99">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_a64b8b901cdb4309a83e6ce25167fdcb3c582611.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/e84e883706fc931161285c78ed13c8f7da6b5a42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="98c1221c29c1a146edc6be342039cc242f9773c5">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_40d84c2b6beb5c3d4990e90a542cec84a106e50c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a611d7a00671ec4eb3050a21425fae955a38eb8a">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_7a61198caeda9c62c5c4ab13a4e8cf350607ebf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/004e8932ab4c11bc56839a65a1ac580cd9aba781/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2299e7e6e579fa158fc1135b9e62f5b56b6b0aa8">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_ebab4b9f471137aafd6b090e6893e5827afa161e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/187efc8fb691ba64122587760dda68ed5cbc5d39/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_cdf2dd73d750bf2ef2389d7b7722a3479e6a01a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_96fbf13696caf9d9583536dc2b8864e378728353.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/7cf54418fe1a92f0b810556eaf03b8669ebaea0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a6daff13bf4ff813ad6686440c9c116e3bbd7630">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_067f00dd04d53563d8234daf06ca7f6bf11ccd89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/e3c81dfd33016591740fd3ae5464236559f6b427/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="0ce1b9865e1e9baf2c9e03b4953ef2531db32d53">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_d2453eec7bccb653bb88d07092da0d64fb6b2731.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/30f61e8f6bc92f442c6b056cdbb000d8f9b84790/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_32eb0b81f44ce2906bae9216cf82ec788e699118.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/3dace2b62a5c253780bcc66b6b7d09234f938b20/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1d71d46e9b2d160e82565bb55f67e0bac1aee3e">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_2a5fc2fb64e62df510db424aca14fcc299972cbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/342ece3cf76adce540a49d52e158c1178f8067e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9e5e6d0c253cc142bd6a586b3fa0bc9bc9024a7d">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_1901bc8024c21cdac4ba8daad59937db609ed415.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/84069e9a24b7eb9cf89616410dc9e06477374f1f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5f43d6c042ee8eb48fa7606da4d1034d472a43cd">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_f86dbeec71999e7f20d25e7c394fed3f708411ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/69485c4efc6f1fa7b28d248250cc448538b3b14c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e72c498ef3e345135b6bfdf7fc83c6b905228ade">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_f9d66d35f085d2c93de482e1f9c9cddce0d11c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/4a8b10627e726e1c38f176b01b7da6fc56a4677b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_b7ed510c585b5db7b07ff88ed4e49e0c9b93d77d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/146a96c9b99478d6b2ef93a44b94c46b76e8bde4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_a79157236fe87ce4117abfe33354f5b0adc4fae6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/5348eb54d31f2df0195e4b4d54540c2a0952594b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a67e5fbb2dacbe75c0a942e9dfec7a49803b941e">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_266a1d3da82fa0ec6c2fb34083962b2a5a0df1d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/eef215ee09f7c4f09ab4d12ab6c39bd6740c0524/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="472812641483188b3121f3294d7da47df3c14d33">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_7cc34f5abfaf3fe74ff196e4b03e7a7402f0c3a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/474872a5f9b69e36453ef65ebae130c3633fcff7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b985bd4eb1abd0e7e1f49c9cdf80a0d3563bad2a">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_f2e29a8c9efc15f7764dd1d805a0bf0a74d4f889.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/a39512d430126e4a2bef04032a51ba06a2d1a8f8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f351ee2e10aaf23a13b0fcd19788683d7dce6192">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_933f48f355181e9dbd3857d5801cc9caa6b167b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/194dc52c858af0025fb3b1da9ec192e35ff8c1e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fc6c0dae1d2dbb08ba3da08479ef40b501af1485">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_fd6429036c8853740866c30958fcee388fd61cf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/311fa59a596725caa0b18480d5dbe0a614b963e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_a163b544b94b0e7313eef86e20a6f49783a53961.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/c6c8805d82928b55a76ffe2e4181470ade584144/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_0a4e6b6ccdceb2940c2c5acb1838bb3aa90005ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30854fe0b2a6e495a821d8f41f52c0a1d18d8d2a">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_291bc3bd11c620fae250efe0322edf3545a784e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/50372842a0944c17803394763195d02c351349e1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2484ee9a66188155c9c792ff279d4a34c8e1d22e">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_efe6292d38280b6885278c6e39cab59f00aa0fdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/c15eb39ba74f497aa5909ba2a03e09a01976f6be/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d74bfb5306aee8dbfa746b48842f87c01c64f6ac">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_c4f7dd18ef028a87bbcbffa912cb9d8eb314c9d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5687d5d0a5cc1113f84a0477d8fdd3b91222d26e">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_a9dcfb229ec06bd9586eb26ff82ca174b151b177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/8aa180172463a952b9ffc2be4464cbd229f20c67/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="af26875652e085cd14713ff655bc3aa07960d459">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_8f4a8182c42282dba0dd66a1d4916bf8068ec801.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/9e3c598fbe5d7c46fae9ca020904a3108a9b99ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a5f50e080b426327fe1851f6f7b5f836bff6ac9f">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_5b273fafde93b261d0db83986ba4ce9d608da99b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/e847899d13f8a98867abef6e6b8bb6ec37d751ed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5af721e99ea8e51ab4c68975048641f01aca77b2">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_bf164043408315b9ecc698f0dee13d654558ea6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/7735375befbdf939e734aebbefb90d481f151edb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_7862abc8fdc7a516eeb106783bab16bfb6fa5c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="aba37a3eec04e174dc59f00cf4bd7992061d847a">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_d44e3e232d2d0ffdc0983b65bc57d7f76517a0c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/af8af9c070b867cff9f582737d09e90dd26827a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="09190a1dee39d994bd6c151b2c9793d01db72447">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_1521743950c73406c4e82f0321a2bd3b585922a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/d18fdfd2ef91c48209a24c879c0590d259ce5881/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2018b324dbe57d9a1304a0b6a97ece59de258da6">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_c467448f778b6e8d63b16335d811dd8e5f5974bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/f897cd3a09c5370fe610ea84836a4259b197bd9c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da7ddb1b984e766c503ade0bc7e19001f56691ca">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_b3a2c3c49b869cf4737fadd14bcacec2d2dd2c41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/f40486a4e52bfefeb65a5c338b8875a2ead05158/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30704152908c78f80b1fa72d3815118d102a5f07">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_70b1037c0404d9ee6b5566f1ef89e3c36b69d3dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/cd7ce53742703e9ce770f883fc2e0c4d085ee710/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eaac8b02a2373e238cab6fc514e4667204b64191">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_c3bddd2752e75c94f5759c6d8d55765ab9172498.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/f82c679e91a0bfc3b2d1081cec28e67de273f16f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f58a75f1d77aea54d4a3c6bad03fa09df438285e">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_5e862cda5181cc37b00d76e099533901d97795da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/e606c0584abda54edd869d22168349a5d87f83db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e700cbcd6de81819f051434ef97c65e1390bf2d9">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_d3db6b745195f6c876d4d04e70790a607def14e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a1dc8abf7fd09c2c993c4f55eb85f477f6ef76f0">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_664bc32b7a45d8442db2429a18590d0e1bced8ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ef65e4780d67d06abddd6e2d15dd4e0519ad8d8a">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_377d7e9675b5677e90f4fba2acd21f7603f20a8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d68bbf92de9721b02a31a3833abfdc90144c7e39">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_d48959c7c2c8deb56b9098e88e588b9b677c471b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/dd76d7c42b86ced1634cf89078884ecd01c4c062/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d410043f93e71bb0179ba86b85726dd080f14b79">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_032bff4fbf0c75bc2eb887307628a61915e1bc99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8723f4a84a0293f5e9ee76193e6bfec47137f048">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_169b8c81a947ef5da4555f11955a2ecc120df5c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/23ff4c5f615b439c97704761e05ead632bcb049b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_c6a8892b849209f6bace5188b573bb3a162e0f68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/0c97d9015babf2bc31bf5a8e17b548a0b170fbd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="022615f683d7cdff31a236e7a31e1048b51196eb">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_64caf197d5deee86d6bced66adf940cf97b79b84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/simranjain1507/.android/build-cache/ad748aa394643c3dc9ca1c1fb039069bb3f49904/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d61d03a79b7aa9cd89ab27e532e574ebc09f1bcb">
+        <dex dex="/Users/simranjain1507/Desktop/Android/Googlemaps2/app/build/intermediates/pre-dexed/debug/classes_95685bb77a4918b59d3450918c47375cc4f51a46.jar" />
+    </item>
+
+</items>

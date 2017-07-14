@@ -1,0 +1,463 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/342ece3cf76adce540a49d52e158c1178f8067e2/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.0] /Users/simranjain1507/.android/build-cache/af8af9c070b867cff9f582737d09e90dd26827a4/output/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] /Users/simranjain1507/.android/build-cache/f622c9cbad6b151803b91b0ab0163784f67c64e5/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /Users/simranjain1507/.android/build-cache/a20d13de200d38eeaad6bacd9fa2270c1f45ab9e/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/df394722d3a4c6bf6112dd8e9323c4ce6291c984/output/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:12:22-78
+application
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:15:5-44:19
+MERGED from [com.google.android.gms:play-services:11.0.0] /Users/simranjain1507/.android/build-cache/5459ad8993dc86260a063ae85c52b0a5662eaeb0/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/342ece3cf76adce540a49d52e158c1178f8067e2/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.0] /Users/simranjain1507/.android/build-cache/e3c81dfd33016591740fd3ae5464236559f6b427/output/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/simranjain1507/.android/build-cache/2b75dff52771bb5d9cab9354520eec829d09cc00/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/23ff4c5f615b439c97704761e05ead632bcb049b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/146a96c9b99478d6b2ef93a44b94c46b76e8bde4/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/simranjain1507/.android/build-cache/30f61e8f6bc92f442c6b056cdbb000d8f9b84790/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/simranjain1507/.android/build-cache/e84e883706fc931161285c78ed13c8f7da6b5a42/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.0] /Users/simranjain1507/.android/build-cache/1354084cd1f9d662302e187a97a1576fae6be8f3/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.0] /Users/simranjain1507/.android/build-cache/7c31f3173928de90b3d9547bc9fc039a2629ad97/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.0] /Users/simranjain1507/.android/build-cache/af8af9c070b867cff9f582737d09e90dd26827a4/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /Users/simranjain1507/.android/build-cache/474872a5f9b69e36453ef65ebae130c3633fcff7/output/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.0] /Users/simranjain1507/.android/build-cache/f897cd3a09c5370fe610ea84836a4259b197bd9c/output/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.0] /Users/simranjain1507/.android/build-cache/0c97d9015babf2bc31bf5a8e17b548a0b170fbd9/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.0] /Users/simranjain1507/.android/build-cache/f40486a4e52bfefeb65a5c338b8875a2ead05158/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.0] /Users/simranjain1507/.android/build-cache/7cf54418fe1a92f0b810556eaf03b8669ebaea0b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/simranjain1507/.android/build-cache/d18fdfd2ef91c48209a24c879c0590d259ce5881/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] /Users/simranjain1507/.android/build-cache/f622c9cbad6b151803b91b0ab0163784f67c64e5/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.0] /Users/simranjain1507/.android/build-cache/4dd8470e5eab281ed6eda6d89a57d3ce340408e5/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /Users/simranjain1507/.android/build-cache/a20d13de200d38eeaad6bacd9fa2270c1f45ab9e/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] /Users/simranjain1507/.android/build-cache/eef215ee09f7c4f09ab4d12ab6c39bd6740c0524/output/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.0] /Users/simranjain1507/.android/build-cache/f82c679e91a0bfc3b2d1081cec28e67de273f16f/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /Users/simranjain1507/.android/build-cache/5348eb54d31f2df0195e4b4d54540c2a0952594b/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.0] /Users/simranjain1507/.android/build-cache/194dc52c858af0025fb3b1da9ec192e35ff8c1e6/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/simranjain1507/.android/build-cache/c15eb39ba74f497aa5909ba2a03e09a01976f6be/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.0] /Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] /Users/simranjain1507/.android/build-cache/e847899d13f8a98867abef6e6b8bb6ec37d751ed/output/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/df394722d3a4c6bf6112dd8e9323c4ce6291c984/output/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.0] /Users/simranjain1507/.android/build-cache/e606c0584abda54edd869d22168349a5d87f83db/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.0] /Users/simranjain1507/.android/build-cache/4016b914a2fd943ac7619d457c12d5372e5b5579/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.0] /Users/simranjain1507/.android/build-cache/ad748aa394643c3dc9ca1c1fb039069bb3f49904/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.0] /Users/simranjain1507/.android/build-cache/3dace2b62a5c253780bcc66b6b7d09234f938b20/output/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.0] /Users/simranjain1507/.android/build-cache/84069e9a24b7eb9cf89616410dc9e06477374f1f/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/simranjain1507/.android/build-cache/dd76d7c42b86ced1634cf89078884ecd01c4c062/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/simranjain1507/.android/build-cache/69485c4efc6f1fa7b28d248250cc448538b3b14c/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/4a8b10627e726e1c38f176b01b7da6fc56a4677b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/7735375befbdf939e734aebbefb90d481f151edb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/76471ddee42fb0f020c536562118848ca1de8da8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/187efc8fb691ba64122587760dda68ed5cbc5d39/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/c6c8805d82928b55a76ffe2e4181470ade584144/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/311fa59a596725caa0b18480d5dbe0a614b963e7/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:20:9-35
+	android:roundIcon
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:19:9-54
+	android:allowBackup
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:21:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:32:13-58
+activity#com.example.android.googlemaps.MapsActivity
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:35:9-43:20
+	android:label
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:36:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:38:13-42:29
+action#android.intent.action.MAIN
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml:41:27-74
+uses-sdk
+INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.google.android.gms:play-services:11.0.0] /Users/simranjain1507/.android/build-cache/5459ad8993dc86260a063ae85c52b0a5662eaeb0/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.0] /Users/simranjain1507/.android/build-cache/50372842a0944c17803394763195d02c351349e1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/342ece3cf76adce540a49d52e158c1178f8067e2/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.0] /Users/simranjain1507/.android/build-cache/c8ece432494aec76f38e2b43aa5f313fd972f14a/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.0] /Users/simranjain1507/.android/build-cache/9e3c598fbe5d7c46fae9ca020904a3108a9b99ed/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.0] /Users/simranjain1507/.android/build-cache/e3c81dfd33016591740fd3ae5464236559f6b427/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/simranjain1507/.android/build-cache/2b75dff52771bb5d9cab9354520eec829d09cc00/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/23ff4c5f615b439c97704761e05ead632bcb049b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/146a96c9b99478d6b2ef93a44b94c46b76e8bde4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/simranjain1507/.android/build-cache/30f61e8f6bc92f442c6b056cdbb000d8f9b84790/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.0] /Users/simranjain1507/.android/build-cache/e84e883706fc931161285c78ed13c8f7da6b5a42/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.0] /Users/simranjain1507/.android/build-cache/1354084cd1f9d662302e187a97a1576fae6be8f3/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.0] /Users/simranjain1507/.android/build-cache/7c31f3173928de90b3d9547bc9fc039a2629ad97/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.0] /Users/simranjain1507/.android/build-cache/af8af9c070b867cff9f582737d09e90dd26827a4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.0] /Users/simranjain1507/.android/build-cache/474872a5f9b69e36453ef65ebae130c3633fcff7/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.0] /Users/simranjain1507/.android/build-cache/fdcfefabdbddf6ba86d3a54127eed0512bffbc57/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.0] /Users/simranjain1507/.android/build-cache/8aa180172463a952b9ffc2be4464cbd229f20c67/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.0] /Users/simranjain1507/.android/build-cache/f897cd3a09c5370fe610ea84836a4259b197bd9c/output/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.0] /Users/simranjain1507/.android/build-cache/a39512d430126e4a2bef04032a51ba06a2d1a8f8/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.0] /Users/simranjain1507/.android/build-cache/cd7ce53742703e9ce770f883fc2e0c4d085ee710/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.0] /Users/simranjain1507/.android/build-cache/0c97d9015babf2bc31bf5a8e17b548a0b170fbd9/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.0] /Users/simranjain1507/.android/build-cache/f40486a4e52bfefeb65a5c338b8875a2ead05158/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.0] /Users/simranjain1507/.android/build-cache/7cf54418fe1a92f0b810556eaf03b8669ebaea0b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.0] /Users/simranjain1507/.android/build-cache/d18fdfd2ef91c48209a24c879c0590d259ce5881/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.0] /Users/simranjain1507/.android/build-cache/f622c9cbad6b151803b91b0ab0163784f67c64e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.0] /Users/simranjain1507/.android/build-cache/4dd8470e5eab281ed6eda6d89a57d3ce340408e5/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /Users/simranjain1507/.android/build-cache/a20d13de200d38eeaad6bacd9fa2270c1f45ab9e/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.0] /Users/simranjain1507/.android/build-cache/75912803202da8a3e422f39d1838d9a14fa5027b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] /Users/simranjain1507/.android/build-cache/eef215ee09f7c4f09ab4d12ab6c39bd6740c0524/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.0] /Users/simranjain1507/.android/build-cache/f82c679e91a0bfc3b2d1081cec28e67de273f16f/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.0] /Users/simranjain1507/.android/build-cache/5348eb54d31f2df0195e4b4d54540c2a0952594b/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.0] /Users/simranjain1507/.android/build-cache/194dc52c858af0025fb3b1da9ec192e35ff8c1e6/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.0] /Users/simranjain1507/.android/build-cache/c15eb39ba74f497aa5909ba2a03e09a01976f6be/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.0] /Users/simranjain1507/.android/build-cache/004e8932ab4c11bc56839a65a1ac580cd9aba781/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.0] /Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.0] /Users/simranjain1507/.android/build-cache/e847899d13f8a98867abef6e6b8bb6ec37d751ed/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/df394722d3a4c6bf6112dd8e9323c4ce6291c984/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.0] /Users/simranjain1507/.android/build-cache/e606c0584abda54edd869d22168349a5d87f83db/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.0] /Users/simranjain1507/.android/build-cache/4016b914a2fd943ac7619d457c12d5372e5b5579/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.0] /Users/simranjain1507/.android/build-cache/3fe803046c06a78437800acbd3090ef58ba57290/output/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.0] /Users/simranjain1507/.android/build-cache/ad748aa394643c3dc9ca1c1fb039069bb3f49904/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.0] /Users/simranjain1507/.android/build-cache/3dace2b62a5c253780bcc66b6b7d09234f938b20/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.0] /Users/simranjain1507/.android/build-cache/84069e9a24b7eb9cf89616410dc9e06477374f1f/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.0] /Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.0] /Users/simranjain1507/.android/build-cache/dd76d7c42b86ced1634cf89078884ecd01c4c062/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.0] /Users/simranjain1507/.android/build-cache/69485c4efc6f1fa7b28d248250cc448538b3b14c/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/4a8b10627e726e1c38f176b01b7da6fc56a4677b/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/7735375befbdf939e734aebbefb90d481f151edb/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/76471ddee42fb0f020c536562118848ca1de8da8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/187efc8fb691ba64122587760dda68ed5cbc5d39/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/c6c8805d82928b55a76ffe2e4181470ade584144/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/311fa59a596725caa0b18480d5dbe0a614b963e7/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/simranjain1507/Desktop/Android/Googlemaps2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/342ece3cf76adce540a49d52e158c1178f8067e2/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.0] /Users/simranjain1507/.android/build-cache/eef215ee09f7c4f09ab4d12ab6c39bd6740c0524/output/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/df394722d3a4c6bf6112dd8e9323c4ce6291c984/output/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.0] /Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.0] /Users/simranjain1507/.android/build-cache/b597cc4eb91b0b4825041b208ff28133acdac9b5/output/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/342ece3cf76adce540a49d52e158c1178f8067e2/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/df394722d3a4c6bf6112dd8e9323c4ce6291c984/output/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/342ece3cf76adce540a49d52e158c1178f8067e2/output/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.0] /Users/simranjain1507/.android/build-cache/2eb05339857d528f1ebed397ef475c0180846cdc/output/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.0] /Users/simranjain1507/.android/build-cache/9618a92948d8313288351490cf2bceeb520c821e/output/AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.0] /Users/simranjain1507/.android/build-cache/0e806ab2af716f5d8c1460b12fa087a0ee6659ff/output/AndroidManifest.xml:7:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/23ff4c5f615b439c97704761e05ead632bcb049b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/146a96c9b99478d6b2ef93a44b94c46b76e8bde4/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/4a8b10627e726e1c38f176b01b7da6fc56a4677b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/7735375befbdf939e734aebbefb90d481f151edb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/76471ddee42fb0f020c536562118848ca1de8da8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/187efc8fb691ba64122587760dda68ed5cbc5d39/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/c6c8805d82928b55a76ffe2e4181470ade584144/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/311fa59a596725caa0b18480d5dbe0a614b963e7/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/simranjain1507/.android/build-cache/a893ce0529ad575274d0407d4624658996cc1002/output/AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.0] /Users/simranjain1507/.android/build-cache/bbf62c392f3cd3f2b847769224eace34fd84c5ae/output/AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.0] /Users/simranjain1507/.android/build-cache/f622c9cbad6b151803b91b0ab0163784f67c64e5/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.0] /Users/simranjain1507/.android/build-cache/a20d13de200d38eeaad6bacd9fa2270c1f45ab9e/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.0] /Users/simranjain1507/.android/build-cache/f622c9cbad6b151803b91b0ab0163784f67c64e5/output/AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.0] /Users/simranjain1507/.android/build-cache/b7d2a8dababe9afc5d144a512f300c50d31b14b1/output/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.0] /Users/simranjain1507/.android/build-cache/bd77e5e1f41596855fe070a9533e0080f3b94931/output/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.0] /Users/simranjain1507/.android/build-cache/ab204bbd2e092d56ffc0227ecd827b54a156c880/output/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.0] /Users/simranjain1507/.android/build-cache/2b26979f739595f7677497f1fdf404c832a34107/output/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.0] /Users/simranjain1507/.android/build-cache/eab00b2edea16814917ae8ab0b75983bc106657b/output/AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.0] /Users/simranjain1507/.android/build-cache/4097b90c73994faaf0f02ad8ebd4f43f7f10bd72/output/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.0] /Users/simranjain1507/.android/build-cache/b09cfd9ec511afc91aec8135bca3a49df93d5140/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/simranjain1507/.android/build-cache/69485c4efc6f1fa7b28d248250cc448538b3b14c/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/simranjain1507/.android/build-cache/69485c4efc6f1fa7b28d248250cc448538b3b14c/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.0] /Users/simranjain1507/.android/build-cache/69485c4efc6f1fa7b28d248250cc448538b3b14c/output/AndroidManifest.xml:20:20-65
